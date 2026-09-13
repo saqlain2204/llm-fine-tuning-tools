@@ -82,6 +82,7 @@ An **end-to-end fine-tuning framework** connects model loading, dataset formatti
 | [LLM Foundry](https://github.com/mosaicml/llm-foundry) | 🟢 Open source | LLM Foundry is MosaicML's codebase for training, fine-tuning, evaluating, and exporting language models using Composer, with configuration-driven recipes and distributed strategies such as FSDP. |
 | [LitGPT](https://github.com/Lightning-AI/litgpt) | 🟢 Open source | LitGPT is Lightning AI's readable implementation and training toolkit for many language-model architectures, with pretraining, full fine-tuning, LoRA/QLoRA, adapter, quantization, and checkpoint-conversion recipes. |
 | [torchtune](https://github.com/pytorch/torchtune) | 🟢 Open source | torchtune is a PyTorch-native post-training library organized around hackable recipes for SFT, LoRA/QLoRA, knowledge distillation, preference optimization, quantization-aware training, and distributed execution. |
+| [TRLoom](https://github.com/saqlain2204/trloom) | 🟢 Open source | TRLoom is a YAML-driven fine-tuning library on Hugging Face TRL that configures model, dataset, trainer, Weights & Biases, and optional Modal GPU execution in one file. |
 
 ## SFT and Core Training Libraries
 
